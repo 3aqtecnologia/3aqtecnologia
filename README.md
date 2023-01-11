@@ -1,4 +1,4 @@
-## Olá! nos Somos a 3AQ Tecnologia,
+## Olá! Somos a 3AQ Tecnologia,
 Somos uma empresa especializada em desenvolvimento de sites, sistemas web e aplicativos mobile. 
 Temos uma equipe qualificada, com habilidades em tecnologias atuais e tendências do mercado agregada a capacidade de entender as necessidades de nossos clientes e traduzi-las em soluções tecnológicas personalizadas e eficazes. 
 Nós nos esforçamos para entregar projetos no prazo e dentro do orçamento, mantendo altos padrões de qualidade. 
