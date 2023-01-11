@@ -13,8 +13,8 @@ Somos uma empresa de tecnologia que atua no segumento de desenvolvimetos de  Sis
 <br/>
 <div align="center">
   <a href="https://github.com/3aqtecnologia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3aqtecnologia&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3aqtecnologia&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3aqtecnologia&show_icons=true&theme=darcula &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3aqtecnologia&layout=compact&langs_count=7&theme=darcula "/>
 
 </div>
 
@@ -51,8 +51,12 @@ Somos uma empresa de tecnologia que atua no segumento de desenvolvimetos de  Sis
 
 <div> 
 <h3>📫 Como chegar até mim:</h3>
- <a href = "mailto:3aqtecnologia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_new"></a>
- <a href="https://www.instagram.com/3aqtecnologia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:3aqtecnologia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_new">
+ </a>
+ <a href="https://www.instagram.com/3aqtecnologia/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
  
  ![Snake animation](https://github.com/3aqtecnologia/3aqtecnologia/blob/output/github-contribution-grid-snake.svg)
  
