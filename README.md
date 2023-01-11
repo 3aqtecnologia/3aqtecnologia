@@ -1,4 +1,4 @@
-## Olá! nos Somos a #aq Tecnologia,
+## Olá! nos Somos a 3AQ Tecnologia,
 Somos uma empresa de tecnologia que atua no segumento de desenvolvimetos de  Sistemas WEB e Apps
 
 🔭 Atualmente estamso trabalhando em alguns projetos bem legais.<br/>
